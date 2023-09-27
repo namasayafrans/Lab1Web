@@ -5,7 +5,8 @@
 ## LANGKAH 1
 
 Membuka VS Code dan membuat file baru serta membuat struktur HTML Dasar
-![step-1] (https://github.com/namasayafrans/Lab1Web/assets/115770839/78e2d2c5-ccf0-4cbb-8066-9a6451f7b7ac)
+![ss1](https://github.com/namasayafrans/Lab1Web/assets/115770839/fd619b9a-407d-4fe9-b83f-c1870c6bdccc)
+
 
 
 ## LANGKAH 2
