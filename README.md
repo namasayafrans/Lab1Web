@@ -25,8 +25,10 @@ Membuat sebuah paragraf serta mengaturnya dengan menggunakan `align` sesuaikan d
 ![ss9](https://github.com/namasayafrans/Lab1Web/assets/115770839/ceea41d3-508b-4417-bd45-92e95b554c02)
 
 ## LANGKAH 3 
-Memformat Teks serta bereksperimen menggunakan format-format teks yang ada seperti `<b>`, `<strong>`, `<i>`, `<em>`, `<mark>`, `<small>`, `<dell>`, `<ins>`, `<sub>`, dan `<sup>`.
-![step-3](https://i.imgur.com/Em5axKC.png)
+Lakukan pemformatan teks yang ada pada paragraf yang sudah ada sebelumnya, mengacu kepada penjelasan materi pemformatan teks, sehingga tampilannya seperti berikut.
+![ss10](https://github.com/namasayafrans/Lab1Web/assets/115770839/5f7a4f7a-5dd9-41e9-b52c-5c2d19dd69ff)
+
+![ss11](https://github.com/namasayafrans/Lab1Web/assets/115770839/2ff2fa59-a395-46a5-90af-333508d02d08)
 
 ## LANGKAH 4
 menyisipkan gambar ke dalam web 
