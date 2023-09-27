@@ -31,7 +31,7 @@ Lakukan pemformatan teks yang ada pada paragraf yang sudah ada sebelumnya, menga
 ![ss11](https://github.com/namasayafrans/Lab1Web/assets/115770839/2ff2fa59-a395-46a5-90af-333508d02d08)
 
 ## LANGKAH 4
-menyisipkan gambar ke dalam web 
+Untuk menyisipkan gmbar, siapkan gambar yang akan disisipkan pada halaman web 
 *file gambar harus didalam satu folder dengan file HTML
 ![ss12](https://github.com/namasayafrans/Lab1Web/assets/115770839/c529dd19-f297-4e0d-99ce-77140a06f14d)
 
@@ -44,8 +44,18 @@ menyisipkan gambar ke dalam web
 ![ss16](https://github.com/namasayafrans/Lab1Web/assets/115770839/0b9a5d9f-2fc7-45d6-adcd-63114345cd33)
 
 ## LANGKAH 5
-Membuat sebuah hyperlink sebelum heading
-![step-5](https://i.imgur.com/x3Aplbl.png)
+Tambahkan hyperlink pada dokumen sebelum heading 1 seperti berikut.
+Buat satu file lagi dengan nama lab1_halaman2.html kemudian isi dokumen tersebut dengan tag html dasar dengan isi bebas
+*masih dalam satu folder
+![ss12](https://github.com/namasayafrans/Lab1Web/assets/115770839/4c5c9300-e2ed-454b-b78e-0812a89c78f2)
+
+![ss17](https://github.com/namasayafrans/Lab1Web/assets/115770839/980841bb-22fe-4cdc-be01-bd7316bd59f4)
+
+![ss18](https://github.com/namasayafrans/Lab1Web/assets/115770839/657b00f2-5b18-4c2f-be81-2ac0946cc8ac)
+
+![ss19](https://github.com/namasayafrans/Lab1Web/assets/115770839/ef07e03a-b09b-4dcd-85d2-77c5591a30df)
+
+![ss20](https://github.com/namasayafrans/Lab1Web/assets/115770839/1596bd10-fee7-4415-bf95-71dab8f346ee)
 
 # Jawab Pertanyaan Berikut
 1. Lakukan perubahan pada code sesuai dengan keinginan anda, amati perubahannya adakah _error_ ketika terjadi kesalahan penulisan tag?
