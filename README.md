@@ -3,7 +3,6 @@
 ### TI.22.A1
 
 ## LANGKAH 1
-
 Membuka VS Code dan membuat file baru serta membuat struktur HTML Dasar
 ![ss1](https://github.com/namasayafrans/Lab1Web/assets/115770839/fd619b9a-407d-4fe9-b83f-c1870c6bdccc)
 
@@ -11,11 +10,8 @@ Membuka VS Code dan membuat file baru serta membuat struktur HTML Dasar
 
 ![ss3](https://github.com/namasayafrans/Lab1Web/assets/115770839/b6949146-15f7-4e8e-a962-4786ac54b4a8)
 
-
-
-
 ## LANGKAH 2
-Membuat sebuah paragraf serta mengaturnya dengan menggunakan `align` sesuaikan dengan kebutuhan. 
+Membuat sebuah paragraf serta mengaturnya dengan menggunakan `align` sesuaikan dengan kebutuhan.tambahkan judul h1 sebelum paragraf pertama dan tambahkan sub judul h2 sebelum paragraf kedua.
 ![ss4](https://github.com/namasayafrans/Lab1Web/assets/115770839/442bcb82-3588-4cef-aa97-b4bebe97a9d1)
 
 ![ss5](https://github.com/namasayafrans/Lab1Web/assets/115770839/8d39678f-36ad-4db2-b145-35bbfcfc713c)
@@ -23,6 +19,10 @@ Membuat sebuah paragraf serta mengaturnya dengan menggunakan `align` sesuaikan d
 ![ss6](https://github.com/namasayafrans/Lab1Web/assets/115770839/917d678d-ad3c-4923-a3f9-c7dd887a81fd)
 
 ![ss7](https://github.com/namasayafrans/Lab1Web/assets/115770839/065a387a-e0fa-43fb-aaba-71272189d08e)
+
+![ss8](https://github.com/namasayafrans/Lab1Web/assets/115770839/2ac44967-f406-401f-a74c-8b100d676c8f)
+  
+![ss9](https://github.com/namasayafrans/Lab1Web/assets/115770839/ceea41d3-508b-4417-bd45-92e95b554c02)
 
 ## LANGKAH 3 
 Memformat Teks serta bereksperimen menggunakan format-format teks yang ada seperti `<b>`, `<strong>`, `<i>`, `<em>`, `<mark>`, `<small>`, `<dell>`, `<ins>`, `<sub>`, dan `<sup>`.
