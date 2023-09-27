@@ -1,6 +1,6 @@
 # Praktikum 1 - Pemrograman Web
-### Fatihul Falah Hidayatullah - 311910460
-### TI.19.A2
+### Frans Putra Sinaga - 312210046
+### TI.22.A1
 
 ## LANGKAH 1
 
