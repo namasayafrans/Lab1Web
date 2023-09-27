@@ -32,7 +32,7 @@ Lakukan pemformatan teks yang ada pada paragraf yang sudah ada sebelumnya, menga
 
 ## LANGKAH 4
 Untuk menyisipkan gmbar, siapkan gambar yang akan disisipkan pada halaman web 
-*file gambar harus didalam satu folder dengan file HTML
+<br>*file gambar harus didalam satu folder dengan file HTML
 ![ss12](https://github.com/namasayafrans/Lab1Web/assets/115770839/c529dd19-f297-4e0d-99ce-77140a06f14d)
 
 ![ss14](https://github.com/namasayafrans/Lab1Web/assets/115770839/36307e33-a3f7-41a6-be7b-71770cebc64e)
@@ -45,7 +45,7 @@ Untuk menyisipkan gmbar, siapkan gambar yang akan disisipkan pada halaman web
 
 ## LANGKAH 5
 Tambahkan hyperlink pada dokumen sebelum heading 1 seperti berikut.
-Buat satu file lagi dengan nama lab1_halaman2.html kemudian isi dokumen tersebut dengan tag html dasar dengan isi bebas
+Buat satu file lagi dengan nama lab1_halaman2.html kemudian isi dokumen tersebut dengan tag html dasar dengan isi bebas <br>
 *masih dalam satu folder
 ![ss12](https://github.com/namasayafrans/Lab1Web/assets/115770839/4c5c9300-e2ed-454b-b78e-0812a89c78f2)
 
