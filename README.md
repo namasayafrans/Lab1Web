@@ -6,7 +6,9 @@
 
 Membuka VS Code dan membuat file baru serta membuat struktur HTML Dasar
 ![ss1](https://github.com/namasayafrans/Lab1Web/assets/115770839/fd619b9a-407d-4fe9-b83f-c1870c6bdccc)
+
 ![ss2](https://github.com/namasayafrans/Lab1Web/assets/115770839/70999607-3a50-454e-9332-eeeb473d02e7)
+
 ![ss3](https://github.com/namasayafrans/Lab1Web/assets/115770839/b6949146-15f7-4e8e-a962-4786ac54b4a8)
 
 
