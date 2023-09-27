@@ -32,12 +32,16 @@ Lakukan pemformatan teks yang ada pada paragraf yang sudah ada sebelumnya, menga
 
 ## LANGKAH 4
 menyisipkan gambar ke dalam web 
-```
-<img src="namafile.formatgambar" title="nama gambar">
-``` 
 *file gambar harus didalam satu folder dengan file HTML
-![step-4-1](https://i.imgur.com/TIwt4ZQ.png)
-![step-4-2](https://i.imgur.com/rzGYbPO.png)
+![ss12](https://github.com/namasayafrans/Lab1Web/assets/115770839/c529dd19-f297-4e0d-99ce-77140a06f14d)
+
+![ss14](https://github.com/namasayafrans/Lab1Web/assets/115770839/36307e33-a3f7-41a6-be7b-71770cebc64e)
+
+![ss13](https://github.com/namasayafrans/Lab1Web/assets/115770839/84026f86-cfea-486a-bc50-6e31195f49e3)
+
+![ss15](https://github.com/namasayafrans/Lab1Web/assets/115770839/20d339ac-62b9-4a05-a274-70464c1f4af1)
+
+![ss16](https://github.com/namasayafrans/Lab1Web/assets/115770839/0b9a5d9f-2fc7-45d6-adcd-63114345cd33)
 
 ## LANGKAH 5
 Membuat sebuah hyperlink sebelum heading
